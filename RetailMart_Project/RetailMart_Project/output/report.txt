@@ -1,0 +1,17 @@
+
+═════════════════════════════════════════════
+       RetailMart Daily Sales Report
+═════════════════════════════════════════════
+  Generated On       : 2026-06-28 12:37:24
+─────────────────────────────────────────────
+  Total Transactions : 16
+  Total Revenue      : ₹13,979.00
+  Average Revenue    : ₹873.69
+─────────────────────────────────────────────
+  Top Selling Product: Samsung Galaxy M14
+  Top Selling Store  : RetailMart Banjara Hills
+  Top Selling City   : Hyderabad
+─────────────────────────────────────────────
+  Duplicates Removed : 3
+  Null Rows Dropped  : 2
+═════════════════════════════════════════════

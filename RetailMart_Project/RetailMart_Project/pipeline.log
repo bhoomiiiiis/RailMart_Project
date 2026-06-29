@@ -1,0 +1,16 @@
+2026-06-28 12:37:24,824  [INFO]  Pipeline started.
+2026-06-28 12:37:24,825  [INFO]  ═══ TASK 1: Data Ingestion ═══
+2026-06-28 12:37:24,834  [INFO]  Loaded 'sales_data': 21 rows × 6 cols
+2026-06-28 12:37:24,849  [INFO]  Loaded 'products': 8 rows × 4 cols
+2026-06-28 12:37:24,857  [INFO]  Loaded 'stores': 5 rows × 4 cols
+2026-06-28 12:37:24,870  [INFO]  ═══ TASK 2: Data Cleaning ═══
+2026-06-28 12:37:24,872  [INFO]  Duplicates removed: 3
+2026-06-28 12:37:24,874  [INFO]  Rows dropped due to null 'amount': 2
+2026-06-28 12:37:24,880  [INFO]  ═══ TASK 3: Data Transformation ═══
+2026-06-28 12:37:24,901  [INFO]  Cleaned CSV exported → output/cleaned_sales.csv
+2026-06-28 12:37:24,901  [INFO]  ═══ TASK 4: Loading into SQLite ═══
+2026-06-28 12:37:24,919  [INFO]  SQLite: 'retail_sales' has 16 rows.
+2026-06-28 12:37:24,920  [INFO]  ═══ TASK 4–5: Running SQL Queries ═══
+2026-06-28 12:37:24,937  [INFO]  ═══ TASK 5: Generating Report ═══
+2026-06-28 12:37:24,940  [INFO]  Report saved → output/report.txt
+2026-06-28 12:37:24,940  [INFO]  Pipeline finished successfully.

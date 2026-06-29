@@ -1,0 +1,17 @@
+sale_id,store_id,product_id,quantity,sale_date,amount,product_name,category,price,store_name,city,region,total_revenue
+1,S001,P001,3,2024-01-15,450.0,Basmati Rice 5kg,Grocery,150.0,RetailMart Andheri,Mumbai,West,450.0
+2,S002,P003,1,2024-01-15,999.0,Samsung Galaxy M14,Electronics,999.0,RetailMart Koramangala,Bengaluru,South,999.0
+3,S001,P002,2,2024-01-15,300.0,Tata Tea Premium 500g,Beverages,150.0,RetailMart Andheri,Mumbai,West,300.0
+4,S003,P004,0,2024-01-15,180.0,Colgate Toothpaste 300g,Personal Care,180.0,RetailMart Connaught Place,Delhi,North,0.0
+5,S002,P001,5,2024-01-16,750.0,Basmati Rice 5kg,Grocery,150.0,RetailMart Koramangala,Bengaluru,South,750.0
+7,S003,P002,1,2024-01-16,150.0,Tata Tea Premium 500g,Beverages,150.0,RetailMart Connaught Place,Delhi,North,150.0
+8,S001,P003,3,2024-01-16,2997.0,Samsung Galaxy M14,Electronics,999.0,RetailMart Andheri,Mumbai,West,2997.0
+10,S002,P002,4,2024-01-17,600.0,Tata Tea Premium 500g,Beverages,150.0,RetailMart Koramangala,Bengaluru,South,600.0
+11,S004,P001,2,2024-01-17,300.0,Basmati Rice 5kg,Grocery,150.0,RetailMart Salt Lake,Kolkata,East,300.0
+12,S003,P005,1,2024-01-17,899.0,Surf Excel 2kg,Household,899.0,RetailMart Connaught Place,Delhi,North,899.0
+13,S001,P004,3,2024-01-18,540.0,Colgate Toothpaste 300g,Personal Care,180.0,RetailMart Andheri,Mumbai,West,540.0
+14,S005,P003,2,2024-01-18,1998.0,Samsung Galaxy M14,Electronics,999.0,RetailMart Banjara Hills,Hyderabad,South,1998.0
+15,S002,P006,1,2024-01-18,249.0,Haldiram Namkeen 400g,Snacks,249.0,RetailMart Koramangala,Bengaluru,South,249.0
+16,S004,P002,5,2024-01-18,750.0,Tata Tea Premium 500g,Beverages,150.0,RetailMart Salt Lake,Kolkata,East,750.0
+17,S003,P001,2,2024-01-19,300.0,Basmati Rice 5kg,Grocery,150.0,RetailMart Connaught Place,Delhi,North,300.0
+18,S005,P005,3,2024-01-19,2697.0,Surf Excel 2kg,Household,899.0,RetailMart Banjara Hills,Hyderabad,South,2697.0
